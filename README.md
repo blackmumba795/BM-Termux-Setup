@@ -21,14 +21,16 @@ BLACK MUMBA is a professional Python-based setup tool for Termux that automates 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/black-mumba.git
-cd black-mumba
-
+git clone https://github.com/blackmumba795/BM-Termux-Setup.git
+cd BM-Termux-Setup
+```
+```bash
 # Make the script executable
-chmod +x black_mumba.py
-
+chmod +x BM-Termux-Setup
+```
+```bash
 # Run the script
-python black_mumba.py
+python3 setup.py
 ```
 
 ### 📖 Usage
