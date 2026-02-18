@@ -29,6 +29,7 @@ chmod +x black_mumba.py
 
 # Run the script
 python black_mumba.py
+```
 
 ### 📖 Usage
 ╔═══════════════════════════════════════════╗
@@ -44,19 +45,18 @@ python black_mumba.py
 ║ [0] Exit                                      ║
 ╚═══════════════════════════════════════════╝
 
-### 📦 What Gets Installed
+# 📦 What Gets Installed
 
-#Core Packages
-1.Python 3, pip, git, curl, wget
+- **Packages
+Python 3, pip, git, curl, wget
 
-2. Text editors (nano, vim)
+- **Text editors (nano, vim)
 
-3. Development tools (clang, make, cmake)
-
+- ** tools (clang, make, cmake)
 # Security Tools
-1. Nmap, Hydra, Nikto
+- **Nmap, Hydra, Nikto
 
-2. SQLMap (from GitHub)
+- **SQLMap (from GitHub)
 
 # Extra Utilities (50+)
 ☑️System Monitoring: htop, neofetch, tree, ncdu
