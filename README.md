@@ -39,30 +39,30 @@ python3 setup.py
 ![image alt](https://github.com/blackmumba795/BM-Termux-Setup/blob/634a2f5ad76cd75ce0fbc386bf89752c9b2b9371/IMG_20260219_143535.jpg)
 
 # 📦 What Gets Installed 
-
-- **Packages
+Packages
 Python 3, pip, git, curl, wget
 
-- **Text editors (nano, vim)
+Text editors (nano, vim)
 
-- ** tools (clang, make, cmake)
+tools (clang, make, cmake)
 # Security Tools
 - **Nmap, Hydra, Nikto
 
-- **SQLMap (from GitHub)
+SQLMap (from GitHub)
 
 # Extra Utilities (50+)
-☑️System Monitoring: htop, neofetch, tree, ncdu
 
-☑️Text Processing: jq, ripgrep, fd, bat, exa
+System Monitoring: htop, neofetch, tree, ncdu
 
-☑️Networking: netcat, socat, tcpdump, traceroute
+Text Processing: jq, ripgrep, fd, bat, exa
 
-☑️File Transfer: rsync, rclone, aria2
+Networking: netcat, socat, tcpdump, traceroute
 
-☑️Programming Languages: nodejs, golang, rust, php, java
+File Transfer: rsync, rclone, aria2
 
-☑️And many more...
+Programming Languages: nodejs, golang, rust, php, java
+
+And many more...
 
 # Python Modules
 requests, rich, colorama, scapy, beautifulsoup4,ect
