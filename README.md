@@ -19,35 +19,26 @@ BLACK MUMBA is a professional Python-based setup tool for Termux that automates 
 
 ## 🚀 Installation
 
-```bash
+
 # Clone the repository
+```python
 git clone https://github.com/blackmumba795/BM-Termux-Setup.git
 cd BM-Termux-Setup
 ```
-```bash
 # Make the script executable
+```python
 chmod +x BM-Termux-Setup
 ```
-```bash
+
 # Run the script
+```python
 python3 setup.py
 ```
 
 ### 📖 Usage
-╔═══════════════════════════════════════════╗
-║           MAIN MENU                       ║
-╠═══════════════════════════════════════════╣
-║ [1] Full Termux Setup                     ║
-║ [2] Install Tools Only                     ║
-║ [3] Update All Packages                     ║
-║ [4] Fix Broken Termux                       ║
-║ [5] Install Python Modules                   ║
-║ [6] Install Security Tools                   ║
-║ [7] Install Extra Utilities                   ║
-║ [0] Exit                                      ║
-╚═══════════════════════════════════════════╝
+![image alt](https://github.com/blackmumba795/BM-Termux-Setup/blob/634a2f5ad76cd75ce0fbc386bf89752c9b2b9371/IMG_20260219_143535.jpg)
 
-# 📦 What Gets Installed
+# 📦 What Gets Installed 
 
 - **Packages
 Python 3, pip, git, curl, wget
