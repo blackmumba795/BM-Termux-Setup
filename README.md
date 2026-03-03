@@ -1,5 +1,14 @@
 # 🐍 BLACK MUMBA - Termux Full Setup Tool
 
+<p align="center">
+<a href="https://github.com/blackmumba795"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/blackmumba795"><img title="Github" src="https://img.shields.io/badge/BlackMumba-795-brightgreen?style=for-the-badge&logo=github"></a>
+</p>
+<a href="https://github.com/blackmumba795"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/Tools- Termux Setup-green.svg?style=flat-square"></a>
+<a href="https://github.com/blackmumba795"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://github.com/blackmumba795"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"></a>
+</p>
+
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/)
 [![Termux](https://img.shields.io/badge/Termux-Required-green.svg)](https://termux.com/)
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
@@ -46,9 +55,9 @@ Text editors (nano, vim)
 
 tools (clang, make, cmake)
 # Security Tools
-- **Nmap, Hydra, Nikto
+- Nmap, Hydra, Nikto
 
-SQLMap (from GitHub)
+ - SQLMap (from GitHub)
 
 # Extra Utilities (50+)
 
@@ -83,4 +92,9 @@ Submit pull requests
 ### 👥 Author
 BLACK MUMBA——Team BCT
 
-GitHub: @blackmumba795
+## CONNECT WITH US :
+
+
+
+<a href="https://github.com/blackmumba795"><img title="Github" src="https://img.shields.io/badge/BlackMumb-795-brightgreen?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/waliullahrahnoom?igsh=MWlxMTcybzI4eW0yeA==)
